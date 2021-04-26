@@ -1,0 +1,25 @@
+{
+  "name": "mich",
+  "version": "0.0.2",
+  "description": "practice",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michelle",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleOsborne/next.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MichelleOsborne/next/issues"
+  },
+  "homepage": "https://github.com/MichelleOsborne/next#readme"
+}
